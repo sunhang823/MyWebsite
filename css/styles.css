@@ -10,8 +10,15 @@
     min-height: 400px;
 }
 
+.row-content-first-page {
+    margin: 0px auto;
+    padding: 250px 0px 250px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
 .footer {
-    background-color: #D1C4E9;
+    background-color: #5CDB95;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +26,7 @@
 .jumbotron {
     margin: 0px auto;
     padding: 70px 30px 70px 30px;
-    background-color: #9575CD;
+    background-color: #8EE4AF;
     color: floralwhite;
 }
 
@@ -35,5 +42,5 @@ body {
 }
 
 .navbar-dark {
-    background-color: #512DA8; 
+    background-color: #5CDB95; 
 }
