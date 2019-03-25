@@ -9,15 +9,15 @@
     border-bottom: 1px ridge;
     min-height: 400px;
 }
-
-.row-content-first-page-quote {
+.container-first-page{
     margin: 0px auto;
-    padding: 0px 0px 0px 0px;
+    padding: 200px 0px 200px 0px;
 }
 
 .row-content-first-page-paragraph {
     margin: 0px auto;
-    padding: 200px 0px 150px 0px;
+    padding: 200px 0px 200px 0px;
+    border-bottom: 1px ridge;
     min-height: 400px;
 }
 
