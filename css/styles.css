@@ -9,17 +9,6 @@
     border-bottom: 1px ridge;
     min-height: 400px;
 }
-.container-first-page{
-    margin: 0px auto;
-    padding: 200px 0px 200px 0px;
-}
-
-.row-content-first-page-paragraph {
-    margin: 0px auto;
-    padding: 200px 0px 200px 0px;
-    border-bottom: 1px ridge;
-    min-height: 400px;
-}
 
 .footer {
     background-color: #5CDB95;
@@ -54,4 +43,18 @@ body {
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
     padding: 10px;
+}
+.carousel {
+    background:#8EE4AF;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
 }
